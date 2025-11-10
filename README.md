@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Tomer Kedem
 
-I lead **Docs-as-System™** — a modern methodology that treats documentation as a living system,  
+I lead **Docs-as-System™** a modern methodology that treats documentation as a living system,  
 bridging humans, agents, and code inside the IDE.
 
 I'm the author of the book series  
