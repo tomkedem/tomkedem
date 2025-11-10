@@ -17,7 +17,7 @@ and a long-time software architect passionate about AI-driven engineering, docum
 ## 🚀 Featured Projects
 
 🔹 [Docs-as-System™](https://github.com/tomkedem/Docs-as-System)  
-The official definition and manifesto of Docs-as-System™ — a framework for designing self-documented, AI-assisted development workflows.
+The official definition and manifesto of Docs-as-System™ a framework for designing self-documented, AI-assisted development workflows.
 
 🔹 [Humans & Machines](https://tomkedem.github.io/Docs-as-System/)  
 A booklet exploring the relationship between developers and intelligent systems in modern engineering.
