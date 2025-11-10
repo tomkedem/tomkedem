@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Tomer Kedem - Docs-as-System" width="100%">
+</p>
+
 # 👋 Hi, I'm Tomer Kedem
 
 I lead **Docs-as-System™** — a modern methodology that treats documentation as a living system,  
