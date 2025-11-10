@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Tomer Kedem - Docs-as-System" width="100%">
+  <img src="banner.png" alt="Tomer Kedem - Docs-as-System" width="900">
 </p>
 
 # 👋 Hi, I'm Tomer Kedem
