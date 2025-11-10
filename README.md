@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Tomer Kedem - Docs-as-System" width="900">
+  <img src="banner.png" alt="Tomer Kedem - Docs-as-System" style="max-width:100%; height:auto;">
 </p>
+
 
 # 👋 Hi, I'm Tomer Kedem
 
