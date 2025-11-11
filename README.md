@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="banner.png" alt="Tomer Kedem - Docs-as-System" style="max-width:100%; height:auto;">
+  <img src="banner.png" alt="Tomer Kedem - Docs-as-System style="max-width:100%; height:auto;">
 </p>
 
 
 # 👋 Hi, I'm Tomer Kedem
 
-I lead **Docs-as-System™** a modern methodology that treats documentation as a living system,  
+I lead **Docs-as-System** a modern methodology that treats documentation as a living system,  
 bridging humans, agents, and code inside the IDE.
 
 I'm the author of the book series  
@@ -16,8 +16,8 @@ and a long-time software architect passionate about AI-driven engineering, docum
 
 ## Featured Projects
 
-- [**Docs-as-System™**](https://github.com/tomkedem/Docs-as-System)  
-  The official definition and manifesto of Docs-as-System™ — a framework for designing self-documented, AI-assisted development workflows.
+- [**Docs-as-System**](https://github.com/tomkedem/Docs-as-System)  
+  The official definition and manifesto of Docs-as-System — a framework for designing self-documented, AI-assisted development workflows.
 
 - [**Humans & Machines**](https://tomkedem.github.io/Docs-as-System/)  
   A booklet exploring the relationship between developers and intelligent systems in modern engineering.
@@ -40,7 +40,7 @@ and a long-time software architect passionate about AI-driven engineering, docum
 
 ---
 
-© 2025 Tomer Kedem — part of the official **Docs-as-System™** methodology suite.
+© 2025 Tomer Kedem — part of the official **Docs-as-System** methodology suite.
 ---
 ⭐ If you find my work useful, consider following me for more AI-engineering content.
 
